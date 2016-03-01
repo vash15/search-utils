@@ -1,0 +1,28 @@
+{
+  "name": "search-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vash15/search-utils",
+  "authors": [
+    "Michele Belluco <michele@belluco.info>"
+  ],
+  "description": "Util for search into string",
+  "main": "lib/search.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "search",
+    "util",
+    "string"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
