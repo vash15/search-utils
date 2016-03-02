@@ -1,0 +1,31 @@
+{
+  "name": "search-utils",
+  "version": "1.0.0",
+  "description": "Util for search into string",
+  "main": "lib/pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vash15/search-utils.git"
+  },
+  "keywords": [
+    "search",
+    "utils"
+  ],
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vash15/search-utils/issues"
+  },
+  "homepage": "https://github.com/vash15/search-utils#readme",
+  "dependencies": {}
+}
