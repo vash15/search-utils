@@ -2,7 +2,7 @@
 Utils for search into string
 
 
-```
+```javascript
 var str = 'bar Ristorante Da Pino';
 console.log(search.splitWords(str));
 console.log('cerca %s', 'bar', search.words('bar', str));
